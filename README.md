@@ -1,19 +1,21 @@
 # Cough-Etiquette
 
-Hello, my name is Paul Leamy (paul.leamy@tudublin.ie). I am PhD researcher in the School of Electrical and Electronic Engineering at TU Dublin.
+Hello, my name is Paul Leamy (paul.leamy@tudublin.ie). I am a PhD researcher in the School of Electrical and Electronic Engineering at TU Dublin.
 
-As part of my research into cough detection in audio signals, I am collecting recordings of cough sounds from individuals observing different cough etiquette e.g. no etiquette, hand etiquette, elbow etiquette. The recordings gathered will be made publicly available to download, however the names, or any other personal details, of the contributors will not be disclosed. 
+As part of my research into the detection of cough sounds in audio signals, I am collecting recordings of coughs from individuals observing different cough etiquette - e.g. covering the mouth with a hand, covering the mouth with an elbow, or not covering the mouth at all. The recordings gathered will be made publicly available for download. However, the names of the contributors will not be disclosed.
 
 I am requesting that you submit three audio recordings via this form. The three audio recordings are:
 
-* Recording 1. 10-15 real/induced/forced coughs with no etiquette (no covering)
-* Recording 2. 10-15 real/induced/forced coughs with hand etiquette (using hand to cover your mouth)
-* Recording 3. 10-15 real/induced/forced coughs with elbow etiquette (using elbow to cover your mouth)
+* Recording 1: 15 coughs (real, induced or forced) with hand etiquette - i.e. using your hand to cover your mouth.
+* Recording 2: 15 coughs (real, induced or forced) with elbow etiquette - i.e. using your elbow to cover your mouth.
+* Recording 3: 15 coughs (real, induced or forced) with no etiquette - i.e. without covering your mouth.
 
-The files should be in WAV format and recorded at 44.1 kHz, and the coughs should be separated briefly from each other. Also, there should be little to no background noise present during recording. The tool at the following link can be used to record and download files as necessary - https://paulleamy.github.io/cough_cappture2.html
+The files should be in WAV format and recorded at 44.1 kHz (either mono or stereo).
+There should be a brief pause between coughs.
+Background noise should be minimised during recording.
 
-An example of the each cough etiquette is demonstrated at this link - https://youtu.be/PuwfofKjZBY
+The tool at the following link can be used to record and download files as necessary - https://paulleamy.github.io/cough_cappture2.html
+
+An example of each cough etiquette is demonstrated at this link - https://youtu.be/jTef9stcdMQ
 
 The intention is to make this data available for public use while maintaining the anonymity of the participants. An example of how this data will be shared can be viewed at this link - https://github.com/paulleamy/Cough-Etiquette
-
-If you are willing to submit recordings and consent to having your data made available can you please indicate on this form.
