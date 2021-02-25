@@ -6,9 +6,9 @@ As part of my research into cough detection in audio signals, I am collecting re
 
 I am requesting that you submit three audio recordings via this form. The three audio recordings are:
 
-Recording 1. 10-15 real/induced/forced coughs with no etiquette (no covering)
-Recording 2. 10-15 real/induced/forced coughs with hand etiquette (using hand to cover your mouth)
-Recording 3. 10-15 real/induced/forced coughs with elbow etiquette (using elbow to cover your mouth)
+* Recording 1. 10-15 real/induced/forced coughs with no etiquette (no covering)
+* Recording 2. 10-15 real/induced/forced coughs with hand etiquette (using hand to cover your mouth)
+* Recording 3. 10-15 real/induced/forced coughs with elbow etiquette (using elbow to cover your mouth)
 
 The files should be in WAV format and recorded at 44.1 kHz, and the coughs should be separated briefly from each other. Also, there should be little to no background noise present during recording. The tool at the following link can be used to record and download files as necessary - https://paulleamy.github.io/cough_cappture2.html
 
