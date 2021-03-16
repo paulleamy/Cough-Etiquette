@@ -4,7 +4,7 @@ Hello, my name is Paul Leamy (paul.leamy@tudublin.ie). I am a PhD researcher in 
 
 As part of my research into the detection of cough sounds in audio signals, I am collecting recordings of coughs from individuals observing different cough etiquette - e.g. covering the mouth with a hand, covering the mouth with an elbow, not covering the mouth at all, and coughing while wearing a mask. The recordings gathered will be made publicly available for download. However, the names of the contributors will not be disclosed.
 
-I am requesting that you submit three audio recordings via this form. The three audio recordings are:
+I am requesting that you submit four audio recordings via this form. The four audio recordings are:
 
 * Recording 1: 5 coughs (real, induced or forced) with hand etiquette - i.e. using your hand to cover your mouth.
 * Recording 2: 5 coughs (real, induced or forced) with elbow etiquette - i.e. using your elbow to cover your mouth.
