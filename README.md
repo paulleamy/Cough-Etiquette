@@ -11,6 +11,8 @@ I am requesting that you submit three audio recordings via this form. The three 
 * Recording 3: 5 coughs (real, induced or forced) with no etiquette - i.e. without covering your mouth.
 * Recording 4: 5 coughs (real, induced or forced) with **no etiquette and wearing a mask**.
 
+If you submitted recordings for 1, 2 , or 3 before, you can ignore those uploads this time. Please note the reduction in requested coughs from 15 to 5.
+
 The files should be in WAV format and recorded at 44.1 kHz (either mono or stereo).
 There should be a brief pause between coughs.
 Background noise should be minimised during recording.
